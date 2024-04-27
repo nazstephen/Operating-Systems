@@ -2,7 +2,7 @@
 
 # Functions (must be defined before use)
 funcRed() {
-echo " This message is from function Red
+echo " This message is from function Red"
 }
 funcBlue() {
 echo " This message is from function Blue" 
